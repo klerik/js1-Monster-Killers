@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e1829354-bade-4eaf-ba66-9c0a5e962854" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -29,6 +47,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,14 +62,32 @@
       <workItem from="1601380010687" duration="171000" />
       <workItem from="1601380224972" duration="4073000" />
       <workItem from="1601394799202" duration="32000" />
-      <workItem from="1601538057218" duration="5192000" />
+      <workItem from="1601538057218" duration="5449000" />
+      <workItem from="1601638751945" duration="49000" />
+      <workItem from="1601638809795" duration="1527000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="704" y="337" key="#Notifications" timestamp="1601638824143">
+      <screen x="0" y="23" width="1920" height="975" />
+    </state>
+    <state x="704" y="337" key="#Notifications/-1920.23.1920.1057/0.23.1920.975@0.23.1920.975" timestamp="1601638824143" />
     <state x="812" y="414" key="Github.ShareDialog" timestamp="1601394814071">
       <screen x="0" y="23" width="1920" height="975" />
     </state>
@@ -58,9 +96,18 @@
       <screen x="0" y="23" width="1920" height="975" />
     </state>
     <state x="772" y="222" key="Github.UntrackedFilesDialog/-1920.23.1920.1057/0.23.1920.975@0.23.1920.975" timestamp="1601394820276" />
-    <state x="560" y="250" key="Vcs.Push.Dialog.v2" timestamp="1601549204015">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state x="548" y="252" key="IDE.errors.dialog" timestamp="1601638890907">
+      <screen x="0" y="23" width="1920" height="975" />
     </state>
+    <state x="548" y="252" key="IDE.errors.dialog/-1920.23.1920.1057/0.23.1920.975@0.23.1920.975" timestamp="1601638890907" />
+    <state x="469" y="149" key="SettingsEditor" timestamp="1601642198183">
+      <screen x="0" y="23" width="1920" height="975" />
+    </state>
+    <state x="469" y="149" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.975@0.23.1920.975" timestamp="1601642198183" />
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2" timestamp="1601551632860">
+      <screen x="0" y="23" width="1920" height="975" />
+    </state>
+    <state x="560" y="249" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.975@0.23.1920.975" timestamp="1601551632860" />
     <state x="560" y="250" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1601549204015" />
   </component>
 </project>
